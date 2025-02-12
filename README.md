@@ -13,7 +13,6 @@ This script is for educational purposes only. Unauthorized access to data or sys
 - Extracts saved passwords from Chromium-based browsers.
 - Decrypts passwords using the browser's encryption key.
 - Sends extracted passwords to a Discord webhook.
-- Obfuscated code to demonstrate how scripts can be made less readable.
 
 ## Requirements
 
@@ -44,13 +43,6 @@ python script_name.py
 2. It extracts the encryption key from the browser's `Local State` file.
 3. It decrypts the saved passwords using the extracted key.
 4. It sends the decrypted passwords to the specified Discord webhook.
-
-## Obfuscation
-
-The script is obfuscated by:
-- Renaming variables and functions to meaningless names.
-- Adding unnecessary complexity to make the code harder to follow.
-- Using single-letter variable names to reduce readability.
 
 ## Ethical Considerations
 
